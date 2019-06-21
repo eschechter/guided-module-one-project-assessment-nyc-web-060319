@@ -3,8 +3,7 @@ Our app allows you to find upcoming concerts in the tri-state area using the pow
 Simply fork the project from the GitHub page and clone it onto your personal computer. Run ‘bundle install’ on the terminal command line, enter ‘ruby bin/run.rb’ to execute the program and select the options from there. You’ll be met with three options; creating an account, logging into an existing account, and seeing the full list of users.  
 
 Our application relies on the TicketMaster API, which provides a database of concerts, venues,and artists. Due to limitations with the free version of the API, we were only able to obtain information for 823 concerts, 466 artists, and 105 venues. 
-Collapse
 
-![Alt text](images/readme_image.png "App login screen")
+![Alt text](images/readme_image.png?raw=true "App login screen")
 
 

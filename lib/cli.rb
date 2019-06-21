@@ -2,6 +2,7 @@ class CommandLineInterface
   attr_accessor :current_user
 
   def greet
+    system "clear"
     puts "\nHello, welcome to your friendly concert viewer!".light_blue
     puts AsciiArt.guitar
   end
